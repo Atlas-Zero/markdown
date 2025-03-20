@@ -10,4 +10,4 @@
 - an unordered list
 - with unordered items
 
-[main](https://atlas-zero.github.io/markdown/index.html/)
+[main](index.html/)
